@@ -38,26 +38,26 @@ The project uses the following dependencies:
 
 ## Project Structure
 
-OnlineAssessment/
-├── app/
-│ ├── src/
-│ │ ├── main/
-│ │ │ ├── java/com/example/onlineassessment/
-│ │ │ │ ├── [MainActivity.java](http://_vscodecontentref_/1)
-│ │ │ │ ├── [LoginActivity.java](http://_vscodecontentref_/2)
-│ │ │ │ ├── [RegistrationActivity.java](http://_vscodecontentref_/3)
-│ │ │ │ ├── [OptionsActivity.java](http://_vscodecontentref_/4)
-│ │ │ │ ├── [CountdownActivity.java](http://_vscodecontentref_/5)
-│ │ │ │ ├── [DashboardActivity.java](http://_vscodecontentref_/6)
-│ │ │ │ ├── [WonActivity.java](http://_vscodecontentref_/7)
-│ │ │ │ ├── [Modelclass.java](http://_vscodecontentref_/8)
-│ │ │ ├── res/
-│ │ │ │ ├── layout/
-│ │ │ │ ├── drawable/
-│ │ │ │ ├── values/
-│ ├── [build.gradle](http://_vscodecontentref_/9)
-├── [build.gradle](http://_vscodecontentref_/10)
-├── [settings.gradle](http://_vscodecontentref_/11)
+      OnlineAssessment/
+      ├── app/
+      │ ├── src/
+      │ │ ├── main/
+      │ │ │ ├── java/com/example/onlineassessment/
+      │ │ │ │ ├── [MainActivity.java](http://_vscodecontentref_/1)
+      │ │ │ │ ├── [LoginActivity.java](http://_vscodecontentref_/2)
+      │ │ │ │ ├── [RegistrationActivity.java](http://_vscodecontentref_/3)
+      │ │ │ │ ├── [OptionsActivity.java](http://_vscodecontentref_/4)
+      │ │ │ │ ├── [CountdownActivity.java](http://_vscodecontentref_/5)
+      │ │ │ │ ├── [DashboardActivity.java](http://_vscodecontentref_/6)
+      │ │ │ │ ├── [WonActivity.java](http://_vscodecontentref_/7)
+      │ │ │ │ ├── [Modelclass.java](http://_vscodecontentref_/8)
+      │ │ │ ├── res/
+      │ │ │ │ ├── layout/
+      │ │ │ │ ├── drawable/
+      │ │ │ │ ├── values/
+      │ ├── [build.gradle](http://_vscodecontentref_/9)
+      ├── [build.gradle](http://_vscodecontentref_/10)
+      ├── [settings.gradle](http://_vscodecontentref_/11)
 
 ## How to Use
 
