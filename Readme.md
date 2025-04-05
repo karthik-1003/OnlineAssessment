@@ -22,9 +22,10 @@ Add screenshots of your app here to showcase its features.
    git clone https://github.com/your-repo/online-assessment.git
    ```
 2. Open the project in Android Studio.
-3. Sync the project with Gradle files.
-4. Add your Firebase configuration file (google-services.json) to the app/ directory.
-5. Build and run the app on an Android device or emulator.
+3. Replace the existing `google-services.json` file located in `OnlineAssessment\app\google-services.json` with the `google-services.json` file downloaded from your Firebase project.
+4. Sync the project with Gradle files.
+5. Add your Firebase configuration file (google-services.json) to the app/ directory.
+6. Build and run the app on an Android device or emulator.
 
 ## Dependencies
 
@@ -58,8 +59,8 @@ OnlineAssessment/
 ├── [build.gradle](http://_vscodecontentref_/10)
 ├── [settings.gradle](http://_vscodecontentref_/11)
 
-
 ## How to Use
+
 1. Launch the app.
 2. Register or log in using your email and password.
 3. Select a subject from the options provided.
