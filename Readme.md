@@ -43,21 +43,21 @@ The project uses the following dependencies:
       │ ├── src/
       │ │ ├── main/
       │ │ │ ├── java/com/example/onlineassessment/
-      │ │ │ │ ├── [MainActivity.java](http://_vscodecontentref_/1)
-      │ │ │ │ ├── [LoginActivity.java](http://_vscodecontentref_/2)
-      │ │ │ │ ├── [RegistrationActivity.java](http://_vscodecontentref_/3)
-      │ │ │ │ ├── [OptionsActivity.java](http://_vscodecontentref_/4)
-      │ │ │ │ ├── [CountdownActivity.java](http://_vscodecontentref_/5)
-      │ │ │ │ ├── [DashboardActivity.java](http://_vscodecontentref_/6)
-      │ │ │ │ ├── [WonActivity.java](http://_vscodecontentref_/7)
-      │ │ │ │ ├── [Modelclass.java](http://_vscodecontentref_/8)
+      │ │ │ │ ├── [MainActivity.java]
+      │ │ │ │ ├── [LoginActivity.java]
+      │ │ │ │ ├── [RegistrationActivity.java]
+      │ │ │ │ ├── [OptionsActivity.java]
+      │ │ │ │ ├── [CountdownActivity.java]
+      │ │ │ │ ├── [DashboardActivity.java]
+      │ │ │ │ ├── [WonActivity.java]
+      │ │ │ │ ├── [Modelclass.java]
       │ │ │ ├── res/
       │ │ │ │ ├── layout/
       │ │ │ │ ├── drawable/
       │ │ │ │ ├── values/
-      │ ├── [build.gradle](http://_vscodecontentref_/9)
-      ├── [build.gradle](http://_vscodecontentref_/10)
-      ├── [settings.gradle](http://_vscodecontentref_/11)
+      │ ├── [build.gradle]
+      ├── [build.gradle]
+      ├── [settings.gradle]
 
 ## How to Use
 
